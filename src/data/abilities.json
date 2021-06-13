@@ -992,6 +992,14 @@
     "requirements": ["Tier 3"],
     "description": "Retrofits the Assault Galleon with a Drone hangar bay that automatically builds and deploys Assault drones.\nCost: 150 Minerals"
   },
+    {
+    "name": "Salvage",
+    "units": ["Builder - Han and Horner"],
+    "commanders": ["Han and Horner"],
+    "requirements": [],
+    "cooldown": 30,
+    "description": "Han and Horner always sells units for a full refund, but selling units is limited by charges."
+  },
   {
     "name": "Train Reaper",
     "units": ["Assault Galleon"],
